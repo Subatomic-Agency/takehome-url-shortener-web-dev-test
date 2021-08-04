@@ -29,4 +29,5 @@ You are not expected to finish all of the requirements of the project - **there 
 - As a user, I should be redirected to the "long" URL when I visit the "shortened" URL in a web browser.
 - As a user, I should be able to choose a custom or vanity path when creating my "shortened" URL. 
 - As a user, I should be able to delete or rename a "shortened" URL I have created.
+- As a user, I cannot delete or rename "shortened" URLs that others have created.
 - As a user, I should be able to see how many people have clicked on my "shortened" URL.
