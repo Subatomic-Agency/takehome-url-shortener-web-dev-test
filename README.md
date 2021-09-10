@@ -16,6 +16,8 @@ The goal of this project is to understand your thought processes and collaborati
 
 You are not expected to finish all of the requirements of the project - **there is purposefully more specs in the test than we are expected to get through to allow stuff to fill up the whole hour if needed** — when we’re reaching the end of the time, we’ll recap and discuss our progress so far and you may be asked several questions about decisions you made in the test. 
 
+FYI - There is nothing to clone in this repo; it's just this README.
+
 
 ## Example Services 
 
