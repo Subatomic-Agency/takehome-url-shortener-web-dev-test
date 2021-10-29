@@ -14,7 +14,7 @@ Further, you can solve this anyway you want, as long as you write code to do it,
 
 The goal of this project is to understand your thought processes and collaborative, communication and working style. Be sure to think through any potential edge cases or test scenarios that might be important.
 
-You are not necessarily expected to get through all of the cases in the time alloted but please try and get as far as you can. Be sure to think through edge cases and testing and document code with comments where you want to provide more explanation to the interviewer. When finished, please zip your code up and email to justin@sporahealth.com
+You are not necessarily expected to get through all of the cases in the time alloted but please try and get as far as you can. Be sure to think through edge cases and testing and document code with comments where you want to provide more explanation to the interviewer. When finished, please zip your code up and email back.
 
 FYI - There is nothing to clone in this repo; it's just this README.
 
